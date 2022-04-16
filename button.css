@@ -5,18 +5,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-body {
-    text-align: center;
-    padding: 100px;
-    background: whitesmoke;
-    display: table-cell;
-}
-
-button {
-    margin: 20px;
-}
-
 .w-btn-gra3 {
     background: linear-gradient(
         45deg,
